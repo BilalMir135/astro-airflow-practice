@@ -1,0 +1,7 @@
+name: 'token_balances'
+
+profile: 'token_balances'
+
+models:
+  token_balances:
+    materialized: table

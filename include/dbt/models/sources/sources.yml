@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: token_balances
+    database: spock-main
+
+    tables:
+      - name: country
